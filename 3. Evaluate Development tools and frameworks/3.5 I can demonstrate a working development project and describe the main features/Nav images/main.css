@@ -1,0 +1,75 @@
+﻿
+.wrapper {
+    width: 80%;
+    height: 800px;
+}
+.header {
+    height: 150px;    
+    margin-left: auto;
+    margin-right: auto;
+    background-color: grey;
+}
+.container {
+    width: 100%;    
+    background-color: RGB(0,128,128);
+}
+.nav {
+    width: 200px;
+    float: left;    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.innerNav{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+#Maki {
+    width: 50%;
+    top: 10px;
+    bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.Content {
+    text-align: center;
+    background-color: RGB(0,128,128);
+}
+   
+.footer {
+    
+    background-color: #dfd5ec;
+    height:50px;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+}
+ p
+{
+    color:white;
+    font-size:35px;
+}
+
+.banner {
+    background-color: beige;
+    margin-top: 60px;
+    text-align: center;
+    padding: 50px;
+}
+
+#coffee-pic {
+    height: 200px;
+    width: 200px;
+}
+
+.content-one {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: wavy
+}
